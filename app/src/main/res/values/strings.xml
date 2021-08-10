@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Music Player Lite</string>
+
+
+    <string name="image">image</string>
+    <string name="album_art_dir">content://media/external/audio/albumart</string>
+    <string name="music_bitrate_freq">44100 kHz • 320 kbps</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="a_z">A-Z</string>
+    <string name="z_a">Z-A</string>
+    <string name="newest_first">Newest first</string>
+    <string name="oldest_first">Oldest first</string>
+    <string name="most_songs">Most songs</string>
+    <string name="least_songs">Least songs</string>
+    <string name="most_albums">Most albums</string>
+    <string name="least_albums">Least albums</string>
+    <string name="longest_dur">Longest duration</string>
+    <string name="shortest_duration">Shortest duration</string>
+    <string name="add_to_queue">Add to queue</string>
+    <string name="more">More</string>
+    <string name="ui">UI</string>
+    <string name="select_accent_color">Select accent color</string>
+    <string name="choose_your_favorite_color_of_choice">choose your favorite color of choice</string>
+    <string name="huge_improve_in_performance_if_disabled">huge improve in performance if disabled</string>
+    <string name="show_embedded_album_arts">Show embedded album arts</string>
+    <string name="now_playing">Now playing</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="automatic">Automatic</string>
+    <string name="select_default_theme">Select default theme</string>
+    <string name="theme_mode_sub_text">change the look and feel as per your preferences</string>
+    <string name="general">GENERAL</string>
+    <string name="folder_option_sub">songs from these folders won\'t show up</string>
+    <string name="folder_option_title">Select folders to exclude</string>
+    <string name="github">GitHub</string>
+    <string name="zero_time">00:00</string>
+    <string name="refresh_title">Refresh media library for new content</string>
+    <string name="refresh_subtitle">we look into every corner for some new tunes you got</string>
+    <string name="options">OPTIONS</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="playlists">PLAYLISTS</string>
+    <string name="enter_new_playlist_name">Enter new name for playlist</string>
+    <string name="add">add</string>
+    <string name="delete_playlist">Delete playlist</string>
+    <string name="oops">Your don\'t have any playlist yet! \n Go ahead create one. 😈</string>
+
+
+</resources>
